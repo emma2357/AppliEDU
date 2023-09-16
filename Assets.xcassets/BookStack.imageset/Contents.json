@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "drawing-book-sketch-book-965e1a3b9bf8872aa56a292be3eebaea.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
